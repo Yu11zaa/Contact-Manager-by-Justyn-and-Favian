@@ -5,4 +5,4 @@ Di code ini kita bisa:
 2. Mengedit kontak
 3. Menghapus Kontak
 4. Mengurutkan kontak
-5. Dan code ini juga bisa mensave semuanya jadi progress yang dibuat tidak akan hilang
+5. Dan code ini juga bisa mensave semuanya, jadi progress yang dibuat tidak akan hilang
